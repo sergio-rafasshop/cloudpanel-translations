@@ -134,6 +134,10 @@
                 <source>Vietnamese</source>
                 <target>Vietnamita</target>
             </trans-unit>
+            <trans-unit id="locale-chinese-taiwan">
+                <source>Chinese (Taiwan)</source>
+                <target>Chino (Taiwán)</target>
+            </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
                 <target>IPv4 IP pública</target>
@@ -1734,14 +1738,13 @@
                 <source>Leave blank to continue using the existing service account.</source>
                 <target>Deje en blanco para continuar usando la cuenta existente del servicio.</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="request-access-code">
                 <source>Request Access Code</source>
                 <target>Solicitar Código de Acceso</target>
             </trans-unit>
             <trans-unit id="access-code">
                 <source>Access Code</source>
-                <target>Código de Acceso/target>
+                <target>Código de Acceso</target>
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
@@ -1830,6 +1833,31 @@
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>
                 <target>La Caché Varnish ha sido purgada</target>
+            </trans-unit>
+            <!-- Translate Me Start -->
+            <trans-unit id="create-a-reverse-proxy">
+                <source>Create a Reverse Proxy</source>
+                <target>Crear un Proxy Inverso</target>
+            </trans-unit>
+            <trans-unit id="new-reverse-proxy">
+                <source>New Reverse Proxy</source>
+                <target>Nuevo Proxy Inverso</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-url">
+                <source>Reverse Proxy Url</source>
+                <target>Url del Proxy Inverso</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-has-been-created">
+                <source>Reverse Proxy has been created.</source>
+                <target>El Proxy Inverso se ha creado.</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-settings">
+                <source>Reverse Proxy Settings</source>
+                <target>Configuración del Proxy Inverso</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-settings-have-been-saved">
+                <source>Reverse Proxy Settings have been saved.</source>
+                <target>Se han guardado las configuraciones del Proxy Inverso.</target>
             </trans-unit>
             <!-- Translate Me End -->
         </body>
